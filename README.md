@@ -2,7 +2,7 @@
 
 <img src="https://github.com/XJINE/Unity_LicensePacker/blob/master/Screenshot.png" width="100%" height="auto" />
 
-Pack some LICENSE files in Assets and Packages directories into one LICENSE file when build.
+Pack some LICENSE files in Assets and Packages into one LICENSE file when the app is built.
 
 ## Import to Your Project
 
@@ -18,7 +18,7 @@ You have to import following assets to use this asset.
 
 ## How to Use
 
-LICENSE file is generated into a output folder when build is succeeded.
+LICENSE file is generated into an output directory when the build is succeeded.
 
 The LICENSE only includes packed assets LICENSE.
 When any assets are not packed, these LICENSE are ignored.
